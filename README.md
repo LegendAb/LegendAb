@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LegendAb
-- 👀 I’m interested in learning mobile development with flutter
-- 🌱 I’m currently learning flutter and javascript
+- A mobile and web developer
+- Kotlin, Java, JavaScript, HTML, CSS...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abraham.jonathan2015@gmail.com
 
